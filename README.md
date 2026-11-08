@@ -52,10 +52,10 @@ Focus: Using technology to support accessible healthcare solutions.
 
 ---
 
-📫 Let's Connect
+<div align="center">📫 Let's Connect
 
 I'm always interested in learning, collaborating, and building meaningful projects.
 
-<div align="center">Thanks for visiting!
+Thanks for visiting!
 
 </div>
