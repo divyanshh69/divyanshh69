@@ -1,61 +1,40 @@
-<div align="center">Hi, I'm Divyansh Nayak 👋
+Hi, I'm Divyansh Nayak 👋
 
-Computer Science Student • Developer • Problem Solver
+Computer Science Student | Developer | Problem Solver
 
 Building useful applications and learning through real-world projects.
 
-""Portfolio" (https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)" (https://divyansh-portfolio-dusky.vercel.app)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/divyansh-nayak-703390370/)
-
-</div>---
-
-👨‍💻 About Me
+About Me
 
 - 🎓 B.Tech Computer Science student at Medi-Caps University
-- 💻 Interested in software development, full-stack applications, and building useful products
+- 💻 Interested in software development and full-stack applications
 - 🚀 Building projects that solve real-world problems
-- 🌱 Continuously learning and exploring new technologies
+- 🌱 Continuously learning new technologies
 
-🛠️ Technologies & Tools
+Technologies
 
-Languages
+Languages: C++, Python, JavaScript, TypeScript
 
-"C++" • "Python" • "JavaScript" • "TypeScript"
+Development: React, Node.js, Express, PostgreSQL, Prisma
 
-Development
+Tools: Git, GitHub, VS Code, Figma
 
-"React" • "Node.js" • "Express" • "PostgreSQL" • "Prisma"
+Featured Projects
 
-Tools
-
-"Git" • "GitHub" • "VS Code" • "Figma"
-
-🚀 Featured Projects
-
-🎵 MetroFlow
+MetroFlow
 
 A modern music experience designed for macOS.
 
-Focus: Application development, music discovery, UI/UX, and playback architecture.
+CampusPulse
 
-🎓 CampusPulse
+A college club management platform for managing clubs and members.
 
-A college club management platform designed to simplify club operations and member management.
+MadhuCare AI
 
-Tech: React, Node.js, Express, TypeScript, PostgreSQL, Prisma
+A healthcare-focused project developed for the Smart India Hackathon initiative.
 
-🧠 MadhuCare AI
+Connect
 
-A healthcare-focused project developed as part of the Smart India Hackathon initiative.
+Portfolio: https://divyansh-portfolio-dusky.vercel.app
 
-Focus: Using technology to support accessible healthcare solutions.
-
----
-
-<div align="center">📫 Let's Connect
-
-I'm always interested in learning, collaborating, and building meaningful projects.
-
-Thanks for visiting!
-
-</div>
+LinkedIn: https://www.linkedin.com/in/divyansh-nayak-703390370/
