@@ -15,11 +15,17 @@ I'm a **B.Tech Computer Science & Engineering student at Medi-Caps University, I
 - 🔭 Currently building projects and improving my development skills
 - 🌱 Exploring **Full-Stack Development, AI, and modern application development**
 - 💡 I enjoy creating practical tools that solve real problems
-- 🎵 Currently building **MetroFlow**, a modern music experience for macOS
+- 🚀 Building applications that help people learn, connect, and grow
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🤝 SkillSync — Skill-Based Collaboration Platform
+
+A platform designed to help people connect, collaborate, and build projects based on their skills and interests.
+
+**Focus:** Collaboration • Skill Discovery • Project Building • Modern Web Development
 
 ### 🎵 MetroFlow — Modern Music Experience for macOS
 
@@ -77,7 +83,7 @@ Currently interested in:
 
 - 💻 Full-Stack Application Development
 - 🤖 Artificial Intelligence & Machine Learning
-- 🎵 Desktop Application Development
+- 🖥️ Desktop & Web Application Development
 - ☁️ Backend, Databases & Cloud Technologies
 - 🚀 Turning ideas into real products
 
